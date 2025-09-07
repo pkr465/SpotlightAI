@@ -176,6 +176,41 @@ Why this architecture works
 	•	Typed state → consistent contracts across nodes; easier debugging/observability.
 	•	Extensibility → drop in real CV/audio models, RAG over brand guides, and policy filters.
 
+Great choice 🎉 — SpotlightAI is clear, professional, and marketing-friendly. Here’s a polished branding package for you to start using right away:
+
 ⸻
 
-If you want, I can plug in specific providers next (e.g., WhisperX for ASR, PySceneDetect for scenes, saliency tracking for vertical crops, and a proper highlight L2R model) and add a small demo notebook to batch-process a folder of OTT assets. ￼
+✅ Project Identity: SpotlightAI
+
+Tagline Options (pick one or rotate for A/B tests):
+	•	“Shining on moments that matter.”
+	•	“AI promos that capture attention.”
+	•	“Find. Create. Engage. Automatically.”
+
+One-line elevator pitch:
+SpotlightAI turns hours of OTT content into ready-to-publish promos in minutes, using AI to find highlights, write scripts, and personalize videos for every audience.
+
+⸻
+
+🌟 Expanded Description
+
+SpotlightAI is an AI-driven promo generation platform built for OTT marketing teams. It ingests video, audio, and subtitles from large content libraries, then uses deep learning to surface emotional peaks and audience-resonant moments. With built-in scriptwriting, automated editing, and personalization, SpotlightAI produces engaging promos at scale — tailored for different demographics, platforms, and formats. The system continuously learns from analytics (views, clicks, conversions) to refine future campaigns, enabling faster A/B testing and higher ROI.
+
+⸻
+
+📊 Key Value Props for Pitch Deck
+	•	Faster: Create promos in hours instead of weeks.
+	•	Cheaper: Cut manual editing and scriptwriting costs by up to 70%.
+	•	Smarter: AI selects the most engaging moments automatically.
+	•	Personalized: Tailor promos for audiences, regions, and platforms.
+	•	Data-driven: Analytics feedback loop improves results over time.
+
+⸻
+
+🎨 Visual Branding Concept (suggestions)
+	•	Logo motif: A spotlight beam forming the letter S, or a play button inside a glowing halo.
+	•	Primary colors: Deep violet / midnight blue (trust + creativity), accented with neon yellow (energy + attention).
+	•	Typography: Bold sans-serif (modern tech) for “Spotlight”, lighter humanist sans for “AI”.
+	•	Style: Dynamic, cinematic feel — reflecting both media creativity and AI intelligence.
+
+⸻
